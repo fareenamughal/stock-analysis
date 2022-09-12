@@ -24,22 +24,22 @@ The two scripts are:
 (https://github.com/fareenamughal/kickstarter-analysis/blob/main/Crowdfunding%20analysis/Resources/Theater_Outcomes_vs_Launch.png)
 ----
 #### Stock performance comparison of 2017 - vs - 2018
-     - The best performing stock for 2018 was ticker symbol RUN giving a 83% return followed by ENPH with an ~82% return/
-     - The worst performing stock for 2018 was ticker symbol DQ followed by JKS.Both had indicated a decrease in returns of over 60%
-     - The best performing stock for 2017 was ticker symbol DQ which almost doubled the returns at 199% followed by SEDG at 184.47%
-     - The worst performing stock for 2017 was ticker symbol TERP which indicated a decrease in returns of approx.7%.
-     - Overall 2017 was a better perfoming year compared to 2018. Though it would be advisable to investige the underlying cause of general market downturn in 2018            before any investment decision is made.	 
+  - The best performing stock for 2018 was ticker symbol RUN giving a 83% return followed by ENPH with an ~82% return/
+  - The worst performing stock for 2018 was ticker symbol DQ followed by JKS.Both had indicated a decrease in returns of over 60%
+  - The best performing stock for 2017 was ticker symbol DQ which almost doubled the returns at 199% followed by SEDG at 184.47%
+  - The worst performing stock for 2017 was ticker symbol TERP which indicated a decrease in returns of approx.7%.
+  - Overall 2017 was a better perfoming year compared to 2018. Though it would be advisable to investige the underlying cause of general market downturn in 2018           before any investment decision is made.	 
 ----
 #### Original VBA script - All Stocks Analysis for 2018
-     - The original VBA script for All Stocks Analysis for 2018 was executed in 0.9780273 seconds
-     - Screenshot reflecting the execution time
+  - The original VBA script for All Stocks Analysis for 2018 was executed in 0.9780273 seconds
+  - Screenshot reflecting the execution time
 ----
 #### Refactored VBA script - All Stocks Analysis Refactored for 2018
-     - The refactored VBA script for All Stocks Analysis Refactored for 2018 was executed in 0.9440918 seconds 
-     - Screenshot reflecting the execution time for the refactored script
-     - This reflected a slight improvement in execution of the refactored VBA script for 2018
-     - The refactored script was more organized and stated similar items under one area, for instance the header, arrary, index etc were all reflected in one area as much as the execution allowed.
-     - The comments were also better stated and provided a better description of the code following the comments
+  - The refactored VBA script for All Stocks Analysis Refactored for 2018 was executed in 0.9440918 seconds 
+  - Screenshot reflecting the execution time for the refactored script
+  - This reflected a slight improvement in execution of the refactored VBA script for 2018
+  - The refactored script was more organized and stated similar items under one area, for instance the header, arrary, index etc were all reflected in one area as much     as the execution allowed.
+  - The comments were also better stated and provided a better description of the code following the comments
 
 ---
 ## Summary
@@ -47,13 +47,13 @@ The two scripts are:
 ### The advantages and disadvantages of refactoring
 ---
 #### Advantages of refactoring
-    - VBA scipting can be done quickly when not starting from scratch or when refactoring.
-    - Refactored scripts are better organised as these are edited and improved versions of the original scripts.
-    - Better organization helps us identify patterns alot more easily. 
+  - VBA scipting can be done quickly when not starting from scratch or when refactoring.
+  - Refactored scripts are better organised as these are edited and improved versions of the original scripts.
+  - Better organization helps us identify patterns alot more easily. 
 ---
 #### Disadvantages of refactoring
-    - VBA scipting can sometimes be very tedious and can have sometimes have undesirable effect on the outcomes.
-    - There may be duplication which will force rethinking of the code.
+  - VBA scipting can sometimes be very tedious and can have sometimes have undesirable effect on the outcomes.
+  - There may be duplication which will force rethinking of the code.
 ---
 
 ### How do the pros and cons apply to refactoring the original VBA script
