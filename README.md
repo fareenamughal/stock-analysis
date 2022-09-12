@@ -33,7 +33,7 @@ The two scripts are:
 ----
 #### Original VBA script - All Stocks Analysis for 2018
   - The original VBA script for All Stocks Analysis for 2018 was executed in 0.9780273 seconds
-  - 
+    https://github.com/fareenamughal/stock-analysis/blob/main/Module2Challenge/Resources/AllStocksAnalysisRefactored2017.PNG
     {Screenshot reflecting the execution time}
 ----
 #### Refactored VBA script - All Stocks Analysis Refactored for 2018
