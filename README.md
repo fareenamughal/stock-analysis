@@ -1,4 +1,4 @@
-# stock-analysis
+# All Stocks Analysis Refactored
 
 
 # Refactoring VBA Code and measuring performance
@@ -28,7 +28,7 @@ The two scripts are:
      - The worst performing stock for 2018 was ticker symbol DQ followed by JKS.Both had indicated a decrease in returns of over 60%
      - The best performing stock for 2017 was ticker symbol DQ which almost doubled the returns at 199% followed by SEDG at 184.47%
      - The worst performing stock for 2017 was ticker symbol TERP which indicated a decrease in returns of approx.7%.
-     - Overall 2017 was a better perfoming year compared to 2018. Though it would be advisable to investige the underlying cause of general market downturn in 2018 before any investment decision is made.	 
+     - Overall 2017 was a better perfoming year compared to 2018. Though it would be advisable to investige the underlying cause of general market downturn in 2018            before any investment decision is made.	 
 ----
 #### Original VBA script - All Stocks Analysis for 2018
      - The original VBA script for All Stocks Analysis for 2018 was executed in 0.9780273 seconds
@@ -59,7 +59,7 @@ The two scripts are:
 ### How do the pros and cons apply to refactoring the original VBA script
 ---
   - In this case the time spent on refactoring the scipt was alot more than the time saved. There was a marginal improvement in terms of speed.
-  - Whilst trying to improve the code, by moving '4) Loop through your arrays to output the Ticker, Total Daily Volume, and Return. to after the loop for the tickers, starting and ending price to the formatting section the code resulted in an additional row with the tickers(11) being duplicated. I am not sure why this kept happening and had to change the code back to the original in this section.
+  - Whilst trying to improve the code, by moving '4) Loop through your arrays to output the Ticker, Total Daily Volume, and Return. to after the loop for the tickers,     starting and ending price to the formatting section the code resulted in an additional row with the tickers(11) being duplicated. I am not sure why this kept           happening and had to change the code back to the original in this section.
   - I had to recheck to see if any areas were being repeated and this can also be time consuming
   - Overall the benefits of reusing the code can be enormous but this shoul be assessed based on the complexity of the code etc. 
 
