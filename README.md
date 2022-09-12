@@ -23,9 +23,7 @@ The two scripts are:
 ## Results
 --- 
 ### Comparing stock performance results for 2017 & 2018 and All Stocks Analysis for 2018 vs All Stocks Analysis Refactored for 2018.
----
-(https://github.com/fareenamughal/kickstarter-analysis/blob/main/Crowdfunding%20analysis/Resources/Theater_Outcomes_vs_Launch.png)
-----
+--- 
 #### Stock performance comparison of 2017 - vs - 2018
   - The best performing stock for 2018 was ticker symbol RUN giving a 83% return followed by ENPH with an ~82% return/
   - The worst performing stock for 2018 was ticker symbol DQ followed by JKS.Both had indicated a decrease in returns of over 60%
@@ -35,11 +33,13 @@ The two scripts are:
 ----
 #### Original VBA script - All Stocks Analysis for 2018
   - The original VBA script for All Stocks Analysis for 2018 was executed in 0.9780273 seconds
-  - Screenshot reflecting the execution time
+  - 
+    {Screenshot reflecting the execution time}
 ----
 #### Refactored VBA script - All Stocks Analysis Refactored for 2018
   - The refactored VBA script for All Stocks Analysis Refactored for 2018 was executed in 0.9440918 seconds 
-  - Screenshot reflecting the execution time for the refactored script
+  - 
+    {Screenshot reflecting the execution time for the refactored script}
   - This reflected a slight improvement in execution of the refactored VBA script for 2018
   - The refactored script was more organized and stated similar items under one area, for instance the header, arrary, index etc were all reflected in one area as much     as the execution allowed.
   - The comments were also better stated and provided a better description of the code following the comments
