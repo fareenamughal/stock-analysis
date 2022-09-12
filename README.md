@@ -33,13 +33,13 @@ The two scripts are:
 ----
 #### Original VBA script - All Stocks Analysis for 2018
   - The original VBA script for All Stocks Analysis for 2018 was executed in 0.9780273 seconds
-  - https://github.com/fareenamughal/stock-analysis/blob/main/Module2Challenge/Resources/AllStocksAnalysis2018.PNG
-     {Screenshot reflecting the execution time}
+  - https://github.com/fareenamughal/stock-analysis/blob/main/Module2Challenge/Resources/AllStocksAnalysis2018.PNG           
+   -{Screenshot reflecting the execution time}
 ----
 #### Refactored VBA script - All Stocks Analysis Refactored for 2018
   - The refactored VBA script for All Stocks Analysis Refactored for 2018 was executed in 0.9765625 seconds 
   - https://github.com/fareenamughal/stock-analysis/blob/main/Module2Challenge/Resources/AllStocksAnalysisRefactored2018.PNG
-     {Screenshot reflecting the execution time for the refactored script}
+   -{Screenshot reflecting the execution time for the refactored script}
   - This reflected a slight improvement in execution of the refactored VBA script for 2018
   - The refactored script was more organized and stated similar items under one area, for instance the header, arrary, index etc were all reflected in one area as much     as the execution allowed.
   - The comments were also better stated and provided a better description of the code following the comments
