@@ -3,11 +3,13 @@
 
 # Refactoring VBA Code and measuring performance
 ---
-https://github.com/fareenamughal/stock-analysis/blob/main/Module2Challenge/VBA_Challenge.xlsm
-
 ## Overview of Project
 ---
 The overview of the project is determine whether the VBA script will run faster after being refactored or edited. 
+
+https://github.com/fareenamughal/stock-analysis/blob/main/Module2Challenge/VBA_Challenge.xlsm   
+{Link to the xlsm file containing the VBA code and workings for this challenge.}
+
 ### Purpose
 ---
 The purpose of the project is to measure how fast the VBA script runs after being edited or refactored.
