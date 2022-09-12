@@ -19,7 +19,7 @@ The two scripts are:
 ---
 ## Results
 --- 
-### Comparing 2018 All Stocks Analysis vs 2018 All Stocks Analysis Refactored.
+### Comparing stock performance results for 2017 & 2018 and All Stocks Analysis for 2018 vs All Stocks Analysis Refactored for 2018.
 ---
 (https://github.com/fareenamughal/kickstarter-analysis/blob/main/Crowdfunding%20analysis/Resources/Theater_Outcomes_vs_Launch.png)
 ----
