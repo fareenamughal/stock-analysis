@@ -38,7 +38,7 @@ The two scripts are:
 ----
 #### Refactored VBA script - All Stocks Analysis Refactored for 2018
   - The refactored VBA script for All Stocks Analysis Refactored for 2018 was executed in 0.9440918 seconds 
-  - 
+  - https://github.com/fareenamughal/stock-analysis/blob/main/Module2Challenge/Resources/AllStocksAnalysisRefactored2018.PNG
     {Screenshot reflecting the execution time for the refactored script}
   - This reflected a slight improvement in execution of the refactored VBA script for 2018
   - The refactored script was more organized and stated similar items under one area, for instance the header, arrary, index etc were all reflected in one area as much     as the execution allowed.
