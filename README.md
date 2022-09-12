@@ -10,7 +10,8 @@ The overview of the project is determine whether the VBA script will run faster 
 ### Purpose
 ---
 The purpose of the project is to measure how fast the VBA script runs after being edited or refactored.
-An analysis of stock for 2017 and 2018 was carried out to determine the performance of various stocks. We used excel and VBA scripting to provide the stock performance analysis very quickly. We had previously already generated a VBA script and ran a macro named "All Stocks Analysis". This code was edited to determine whether we could further improve the VBA code so that it would run faster than before. The edited code was named " All Stocks Analysis Refactored".
+An analysis of stock for 2017 and 2018 was carried out to determine the performance of various stocks. We used excel and VBA scripting to provide the stock            performance analysis very quickly. We had previously already generated a VBA script and ran a macro named "All Stocks Analysis". This code was edited to determine      whether we could further improve the VBA code so that it would run faster than before. The edited code was named " All Stocks Analysis Refactored".
+
 ---
 The two scripts are:
   - Original VBA script - All Stocks Analysis.
