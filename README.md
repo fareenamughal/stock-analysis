@@ -3,7 +3,8 @@
 
 # Refactoring VBA Code and measuring performance
 ---
-(https://github.com/fareenamughal/kickstarter-analysis/blob/main/Crowdfunding%20analysis/Kickstarter_Challenge.xlsx)
+Module2Challenge/VBA_Challenge.xlsm
+
 ## Overview of Project
 ---
 The overview of the project is determine whether the VBA script will run faster after being refactored or edited. 
